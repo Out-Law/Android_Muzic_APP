@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Muzic_St</string>
+
+
+    <string-array name="Name">
+        <item>Nikita</item>
+        <item>Vita</item>
+        <item>Luda</item>
+
+    </string-array>
+
+    <string-array name="Password">
+        <item>123</item>
+        <item>456</item>
+        <item>789</item>
+
+    </string-array>
+
+
+    <string-array name="Name_music">
+        <item>Kendrick Lamar - HUMBLE.</item>
+        <item>Kendrick Lamar - DNA.</item>
+        <item>Billie Eilish - bad guy</item>
+        <item>Billie Eilish - everything i wanted</item>
+        <item>GHOSTEMANE - Mercury</item>
+        <item>GHOSTEMANE - Nihil</item>
+        <item>Eminem - Godzilla ft. Juice WRLD (Dir. by @_ColeBennett_)</item>
+        <item>Eminem - Rap God</item>
+        <item>Post Malone - Circles</item>
+        <item>Post Malone - Psycho ft. Ty Dolla $ign</item>
+        <item>Post Malone, Swae Lee - Sunflower</item>
+        <item>Pharrell Williams - Happy</item>
+        <item>Pharrell Williams - Freedom</item>
+        <item>Childish Gambino - This Is America</item>
+        <item>Childish Gambino - Feels Like Summer</item>
+
+    </string-array>
+
+
+    <string-array name="URL">
+        <item>https://genius.com/Kendrick-lamar-humble-lyrics</item>
+        <item>https://genius.com/Kendrick-lamar-dna-lyrics</item>
+        <item>https://www.billieeilish.com/videos/billie-eilish-bad-guy</item>
+        <item>https://ruq.hotmo.org/song/67288308</item>
+        <item>https://genius.com/Ghostemane-mercury-retrograde-lyrics</item>
+        <item>https://genius.com/Ghostemane-nihil-lyrics</item>
+        <item>https://genius.com/Eminem-godzilla-lyrics</item>
+        <item>https://genius.com/Eminem-rap-god-lyrics</item>
+        <item>https://genius.com/Post-malone-circles-lyrics</item>
+        <item>https://genius.com/Post-malone-psycho-lyrics</item>
+        <item>https://genius.com/Post-malone-and-swae-lee-sunflower-lyrics</item>
+        <item>https://genius.com/Pharrell-williams-happy-lyrics</item>
+        <item>https://genius.com/Pharrell-williams-freedom-lyrics</item>
+        <item>https://genius.com/Childish-gambino-this-is-america-lyrics</item>
+        <item>https://genius.com/Childish-gambino-feels-like-summer-lyrics</item>
+
+    </string-array>
+
+
+</resources>
